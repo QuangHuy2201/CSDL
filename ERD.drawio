@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T02:47:14.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 OPR/76.0.4017.177" etag="B8tRGx1ebuM8Egn6I6ib" version="14.8.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-22T03:11:37.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 OPR/76.0.4017.177" etag="MW8BA2SkNdNR546-O9k4" version="14.8.0" type="github" pages="4">
   <diagram id="vQHucJHa2scrvkwMp-Zf" name="Ch02_01">
     <mxGraphModel dx="1895" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -923,7 +923,7 @@
         <mxCell id="ZXOnKJW9rLe8aTm_KhJ1-8" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RN5mnUzeZGtib03jASlX-1">
           <mxGeometry x="580" y="480" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZXOnKJW9rLe8aTm_KhJ1-9" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RN5mnUzeZGtib03jASlX-1">
+        <mxCell id="ZXOnKJW9rLe8aTm_KhJ1-9" value="M" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RN5mnUzeZGtib03jASlX-1">
           <mxGeometry x="750" y="480" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZXOnKJW9rLe8aTm_KhJ1-10" value="&lt;span class=&quot;VIiyi&quot; lang=&quot;en&quot; style=&quot;display: inline ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;robotodraft&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;span class=&quot;JLqJ4b ChMk0b&quot; style=&quot;cursor: pointer ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Quantity of each part&lt;br&gt;&amp;nbsp;in the order&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;roboto&amp;#34; , &amp;#34;robotodraft&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 24px ; background-color: rgb(245 , 245 , 245)&quot;&gt; &lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="RN5mnUzeZGtib03jASlX-1">
