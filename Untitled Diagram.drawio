@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T02:13:45.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.63" etag="SoXDNcQFucpnkXT_qzie" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T02:14:35.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.63" etag="goP0y8RjPPvT7l75JLM7" version="15.7.0" type="github">
   <diagram name="BTL" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1532" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -157,7 +157,7 @@
         <mxCell id="jTYNaXpzL4hXQkOfN98h-46" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="275" y="430" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jTYNaXpzL4hXQkOfN98h-47" value="Hoc" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="jTYNaXpzL4hXQkOfN98h-47" value="DANGKY" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1050" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jTYNaXpzL4hXQkOfN98h-49" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="jTYNaXpzL4hXQkOfN98h-47" target="jTYNaXpzL4hXQkOfN98h-26" edge="1">
