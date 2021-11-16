@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T12:01:13.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.63" etag="jqW8XaplUp0VOadT85sv" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T12:39:40.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.63" etag="ZQ9m8QmXRlL-MYr_c7Fz" version="15.7.3" type="github">
   <diagram name="BTL" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="2163" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1781" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -285,9 +285,6 @@
         </mxCell>
         <mxCell id="n_W60Ex10awXs8CcbhlA-47" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Quản lý thời khoá biểu của Giảng viên và Sinh viên&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="557.5" y="70" width="582.5" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="n_W60Ex10awXs8CcbhlA-48" value="&lt;font style=&quot;font-size: 18px&quot;&gt;ERD&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="200" y="120" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g_7U7ZOY5ZXnp52fUQS2-1" value="GioiTinh" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="802.5" y="850" width="100" height="40" as="geometry" />
