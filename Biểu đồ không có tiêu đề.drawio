@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T08:49:54.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="eoK814ifFYamxto-f0r2" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T09:01:29.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ZnYw6RSZYsavgt2bDZ-r" version="22.1.7" type="github">
   <diagram id="X1ojyS52s7-M8PCClS-w" name="Trang-1">
     <mxGraphModel dx="954" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="360" y="80" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ogAQd3dcdi08tpSV0hbl-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="300" width="100" height="40" as="geometry" />
+          <mxGeometry x="260" y="920" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ogAQd3dcdi08tpSV0hbl-7" value="Mã lệnh SX" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="160" y="200" width="100" height="40" as="geometry" />
@@ -85,11 +85,62 @@
         <mxCell id="hwc81k95BObM7ho29JYe-5" value="Số lượng SX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="560" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hwc81k95BObM7ho29JYe-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="560" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="hwc81k95BObM7ho29JYe-7" value="Phiếu nhập kho thành phẩm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="530" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hwc81k95BObM7ho29JYe-8" value="MS phiếu" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="160" y="680" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hwc81k95BObM7ho29JYe-9" value="Tên nguyên liệu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="680" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hwc81k95BObM7ho29JYe-10" value="Ngày nhập" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="680" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hwc81k95BObM7ho29JYe-11" value="Mã phân xưởng" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="460" y="680" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hwc81k95BObM7ho29JYe-12" value="Số lượng thừa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="680" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hwc81k95BObM7ho29JYe-13" value="Phiếu nhập kho nguyên liệu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="650" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hwc81k95BObM7ho29JYe-14" value="Mã mặt hàng" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="160" y="800" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hwc81k95BObM7ho29JYe-16" value="Bảng định mức nguyên liệu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="770" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hwc81k95BObM7ho29JYe-17" value="Mã nguyên liệu" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="260" y="800" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hwc81k95BObM7ho29JYe-18" value="Số lượng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="800" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hwc81k95BObM7ho29JYe-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="920" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hwc81k95BObM7ho29JYe-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="920" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hwc81k95BObM7ho29JYe-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="920" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hwc81k95BObM7ho29JYe-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="920" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hwc81k95BObM7ho29JYe-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="920" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hwc81k95BObM7ho29JYe-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="800" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hwc81k95BObM7ho29JYe-25" value="SL&amp;nbsp; chênh lệch" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="560" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hwc81k95BObM7ho29JYe-26" value="Nguyên vật liệu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="890" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
